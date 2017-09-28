@@ -1,0 +1,2 @@
+The order of the tests does not matter, as all of them will be passed through and tested independantly.
+It is also easier to read.

@@ -1,0 +1,21 @@
+1. Yes as tests are sometimes better to write and 
+base the main code on it.
+
+2.Yes, you can test whether the currency provided is an 
+actual currency, you can also test if the amount provided is 
+a positive amount as you can't have negative money, since you don't have it.
+
+3. Code
+
+4.Getters should be tested for amount especially to provide for the fact
+that one person cannot have minus money in a specific currency it has to be an 
+amount above 0.
+
+5.Yes to provide for a bigger variety of tests.
+
+6. Code
+
+7. Code, but each class is not needed for a separate test.
+
+8. Created a suite of all the tests together.
+
